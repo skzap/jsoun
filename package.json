@@ -1,0 +1,17 @@
+{
+  "name": "jsoun",
+  "version": "0.1.4",
+  "description": "Ever wanted to put json in a url and thought it was ugly? JSOUN (Javascript Object URL Notation) makes it slightly better",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "json",
+    "jsoun",
+    "url",
+    "pretty"
+  ],
+  "author": "Adrien M",
+  "license": "ISC"
+}
